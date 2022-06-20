@@ -1,0 +1,6 @@
+1:{TCP} Transmission Control Protocol 
+2:{SYN} SYNchronize
+3:{UDP} User Datagram Protocol
+4:{FTP} File Transfer Protocol
+5:{os detection} The -O command-line flag will instruct NMAP to determine the operating system running on a remote target.
+6:{port scaning} A port scan is a common technique hackers use to discover open doors or weak points in a network.  
